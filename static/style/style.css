@@ -1,0 +1,28 @@
+p {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(120, 237, 4);
+}
+
+.conteiner {
+    display: inline-block;
+    background-color: darkgray;
+    margin: 20px;
+    margin-top: 40px;
+    
+}
+
+.allconteiner {
+    display: inline-block;
+}
+
+
+.main {
+    text-align: center;
+}
+
+.conteiner>img {
+    width: 300px;
+}
